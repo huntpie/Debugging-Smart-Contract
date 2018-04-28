@@ -8,7 +8,7 @@ At Step 7) *migrate*, I encountered two errors,
 
 Make sure *2_delploy_contracts.js* requires the correct name.
 
-Delete *build/contracts* before truffle compile if necessary
+Delete *build/contracts* before *truffle compile* if necessary
 
 
 
