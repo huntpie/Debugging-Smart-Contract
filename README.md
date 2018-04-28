@@ -4,7 +4,7 @@ Debugging a smart contract by Truffle - http://truffleframework.com/tutorials/de
 
 ------How A Contract Should Work-----
 
-At Step 7) *migrate*, I encountered multiples error,
+At Step 7) *migrate*, I encountered two errors,
 
 Make sure *2_delploy_contracts.js* requires the correct name.
 
